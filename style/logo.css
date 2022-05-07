@@ -1,0 +1,75 @@
+
+.logo{
+    position: absolute;
+    top: -600px;
+    left: 35vw;
+}
+.logo_elements{
+ 
+  transform: rotate(100deg) 
+  
+}
+.element{
+    margin: 0 ;
+
+   list-style-type: none;
+   padding: 0;
+}
+
+.element li{
+    display: flex;
+  height: 4vw;
+  color: red;
+
+}
+
+.black{
+    background-color: black;
+  
+     
+}
+.line1{
+    width: 30vw;
+
+}
+.line2{
+    width: 25vw;
+}
+.line3{
+    width: 35vw;
+}
+.line4{
+    width: 25vw;
+}
+.line5{
+    width: 30vw;
+}
+.line6{
+    width: 20vw;
+}
+.line7{
+    width: 26vw;
+}
+.boll{
+
+    width: 4vw;
+    height: 4vw;
+    border-radius: 50%;
+    margin-left: -2vw;
+}
+
+    
+
+.white{
+    background-color: white;
+}
+
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
